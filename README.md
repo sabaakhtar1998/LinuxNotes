@@ -1,2 +1,0 @@
-# LinuxNotes
-all about linux
